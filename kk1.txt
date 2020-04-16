@@ -1,0 +1,5 @@
+this is kk1 v1
+go to commit 2
+kk is staged
+kk modified
+Changed
